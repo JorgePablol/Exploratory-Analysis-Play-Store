@@ -10,6 +10,7 @@
 	 * [Most installed of finance](#Most-installed-of-finance)
 	 * [Most installed of productivity](#Most-installed-of-productivity)
 * [Contributing](#Contributing)
+* [License](#License)
 
 ## [Background](#Table-of-contents)
 My interest in this dataset is to use my data abilities to know how the productivity and finance apps perform, more precisely which are the best. I'm also interested in the price and category distribution to take a glance the most offered and monetized apps.
@@ -45,3 +46,6 @@ This is clearly **dominated by Microsoft and google apps**, the top of them are 
 
 ## [Contributing](#Table-of-contents)
 NO.
+
+## [License](#Table-of-contents)
+This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/.
