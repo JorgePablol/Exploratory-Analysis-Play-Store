@@ -29,7 +29,7 @@ We can see how tools, game and family categories are the most popular categories
 ### [Price distribution:](#Table-of-contents) 
 **FIRST:** I found that free apps (0.00 cost) are 7593 out of 8197 surprisingly, and they represent 92 % of the entire app dataset.
 So I deleted 0.00 cost because it was too high, and looked for the priced apps.
-We can see a higher peak around 0.99 and 5.00
+**83%** of the prices are between **0.99 and 5.00**
 ￼![price](https://user-images.githubusercontent.com/58957744/98838994-969bd500-240a-11eb-903e-7a449038efe5.png)
 
 ### [Most installed apps](#Table-of-contents)
