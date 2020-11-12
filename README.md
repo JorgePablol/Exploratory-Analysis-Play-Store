@@ -2,6 +2,7 @@
 
 ## Table of contents
 * [Background](#Background)
+* [Data](#Data)
 * [Findings](#Findings)
 	 * [Category distribution](#Category-distribution)
 	 * [Price distribution](#Price-distribution)
@@ -10,12 +11,14 @@
 	 * [Most installed of productivity](#Most-installed-of-productivity)
 * [Contributing](#Contributing)
 
-## Background
-###### [Return](#Table-of-contents)
+## [Background](#Table-of-contents)
 My interest in this dataset is to use my data abilities to know how the productivity and finance apps perform, more precisely which are the best. I'm also interested in the price and category distribution to take a glance the most offered and monetized apps.
 
-## Findings 
-###### [Return](#Table-of-contents)
+## [Data:](#Table-of-contents)
+### Gathering data:
+This dataset can be found by clicking [link](https://www.kaggle.com/lava18/google-play-store-apps)
+
+## [Findings](#Table-of-contents) 
 ### [Category distribution:](#Table-of-contents) 
 We can see how tools, game and family categories are the most popular categories in the play store, to be precise they represent 39.5% of the apps.
 
@@ -40,6 +43,5 @@ Here we can see **google pay** has a higher ground from the second place. **Pay 
 This is clearly **dominated by Microsoft and google apps**, the top of them are focused on **cloud management**. The rest are actually known productivity apps about **calculators, alarm clocks, file explorers**.
 ![productivity](https://user-images.githubusercontent.com/58957744/98960002-7b43cf00-24c9-11eb-9b3b-533b71ebaa32.png)
 
-## Contributing
-###### [Return](#Table-of-contents)
+## [Contributing](#Table-of-contents)
 NO.
