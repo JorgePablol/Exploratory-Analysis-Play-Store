@@ -18,6 +18,7 @@ My interest in this dataset is to use my data abilities to know how the producti
 ###### [Return](#Table-of-contents)
 ### Category distribution: 
 We can see how tools, game and family categories are the most popular categories in the play store, to be precise they represent 39.5% of the apps.
+
 ![dist](https://user-images.githubusercontent.com/58957744/98837711-e5e10600-2408-11eb-83dd-63c0e50df051.png)
 
 ### Price distribution: 
