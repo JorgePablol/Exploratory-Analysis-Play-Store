@@ -17,8 +17,8 @@ My interest in this dataset is to use my data abilities to know how the producti
 
 ## [Data:](#Table-of-contents)
 ### Gathering data:
-This dataset can be found by clicking [link](https://www.kaggle.com/lava18/google-play-store-apps)
-"While many public datasets (on Kaggle and the like) provide Apple App Store data, there are not many counterpart datasets available for Google Play Store apps anywhere on the web." - Lavanya Gupta, propietary of this dataset.
+This dataset can be found by clicking [link](https://www.kaggle.com/lava18/google-play-store-apps).
+###### "While many public datasets (on Kaggle and the like) provide Apple App Store data, there are not many counterpart datasets available for Google Play Store apps anywhere on the web." - Lavanya Gupta, propietary of this dataset.
 
 ## [Findings](#Table-of-contents) 
 ### [Category distribution:](#Table-of-contents) 
